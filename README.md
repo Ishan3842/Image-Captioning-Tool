@@ -2,6 +2,8 @@
 
 A modern, user-friendly web application that generates AI-powered captions for your images using OpenAI's advanced vision model. Built with React, TypeScript, and Tailwind CSS.
 
+## ✨ Try it out - https://imagecaptioning.netlify.app/
+
 ![AI Image Caption Generator](image.png)
 
 ## ✨ Features
