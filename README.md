@@ -34,7 +34,7 @@ A modern, user-friendly web application that generates AI-powered captions for y
 
    ```bash
    git clone [your-repository-url]
-   cd ai-image-caption-generator
+   cd project
    ```
 
 2. Install dependencies:
@@ -43,7 +43,7 @@ A modern, user-friendly web application that generates AI-powered captions for y
    npm install
    ```
 
-3. Create a `.env` file in the root directory and add your OpenAI API key:
+3. Rename the `.demo.env` to `.env` file in the root directory and add your OpenAI API key:
 
    ```env
    VITE_OPENAI_API_KEY=your_api_key_here
@@ -81,14 +81,6 @@ A modern, user-friendly web application that generates AI-powered captions for y
 - Supported formats: PNG, JPG, JPEG, GIF
 - Requires an active internet connection
 - OpenAI API key required
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](issues).
 
 ## 🙏 Acknowledgments
 
