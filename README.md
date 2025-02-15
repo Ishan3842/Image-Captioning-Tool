@@ -2,7 +2,7 @@
 
 A modern, user-friendly web application that generates AI-powered captions for your images using OpenAI's advanced vision model. Built with React, TypeScript, and Tailwind CSS.
 
-![AI Image Caption Generator](https://images.unsplash.com/photo-1516110833967-0b5716ca1387?auto=format&fit=crop&q=80&w=1974)
+![AI Image Caption Generator](image.png)
 
 ## ✨ Features
 
@@ -31,17 +31,20 @@ A modern, user-friendly web application that generates AI-powered captions for y
 ## 🛠️ Installation
 
 1. Clone the repository:
+
    ```bash
    git clone [your-repository-url]
    cd ai-image-caption-generator
    ```
 
 2. Install dependencies:
+
    ```bash
    npm install
    ```
 
 3. Create a `.env` file in the root directory and add your OpenAI API key:
+
    ```env
    VITE_OPENAI_API_KEY=your_api_key_here
    ```
